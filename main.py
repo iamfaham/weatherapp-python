@@ -1,4 +1,7 @@
 import requests
+import api_key  # untracked python file containing API key
+
+API_KEY = api_key.API_KEY
 
 API_KEY = "16abde96491a8b119dd8d6e3496a4609"
 
