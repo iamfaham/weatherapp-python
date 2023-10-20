@@ -3,8 +3,6 @@ import api_key  # untracked python file containing API key
 
 API_KEY = api_key.API_KEY
 
-API_KEY = "16abde96491a8b119dd8d6e3496a4609"
-
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 city = input("Enter a city name for weather data: ")
